@@ -1,0 +1,19 @@
+#texto{
+    color:cyan;
+    font-style: italic;
+}
+
+
+li{
+    color: brown;
+    list-style-type: lower-roman;
+    a{color:rgba(229, 21, 149, 0.776);}
+}
+
+#boton{
+    color: cornflowerblue;
+    background-color: darkblue;
+    cursor: grab;
+    
+}
+
